@@ -1,0 +1,21 @@
+body{
+    background-color:darkseagreen;
+}
+
+#container{
+    text-align:center;
+}
+
+.button {
+    border-radius: 10px;
+    background-color: palevioletred;
+
+}
+
+.button:hover{
+    background-color: teal
+}
+
+ul{
+    list-style-type: none;
+}
